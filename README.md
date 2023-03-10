@@ -11,8 +11,8 @@ import telegram # pip install python-telegram-bot
 import asyncio
 ````
 ````python
-# exchange object for interacting with the Binance API.
-# объект exchange для взаимодействия с Binance API.
+# object instance of the ccxt.binance() class for interacting with the Binance API
+# объект экземпляр класса ccxt.binance() для взаимодействия с Binance API
 
 exchange = ccxt.binance()
 ````
