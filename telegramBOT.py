@@ -1,8 +1,3 @@
-# Python Telegram-bot
-Мини Telegram-бот на Python
-
-````python
-
 # library import / подключение библиотек
 # pip install ccxt python-telegram-bot
 
@@ -32,5 +27,3 @@ async def send_btc_price():
 
 
 asyncio.run(send_btc_price())  # Запуск асинхронной программы
-
-````
